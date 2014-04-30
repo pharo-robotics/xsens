@@ -1,0 +1,18 @@
+<package>
+  <description brief="xsens">
+
+     xsens
+
+  </description>
+  <author>Santiago Bragagnolo</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/xsens</url>
+  <depend package="std_msgs"/>
+  <depend package="tf"/>
+  <depend package="rospy"/>
+  <depend package="roscpp"/>
+
+</package>
+
+

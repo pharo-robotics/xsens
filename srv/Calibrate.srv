@@ -1,0 +1,9 @@
+#constants to use in kind.
+int32 ORIENTATION=1
+int32 DRIFT=2
+#fields
+int32 kind
+int32 samples
+---
+geometry_msgs/Vector3 compensation
+
